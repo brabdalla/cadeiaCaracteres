@@ -1,18 +1,24 @@
-## Getting Started
+# 🧩 Manipulando Cadeia de Caracteres em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto é um programa em **Java** que realiza diversas operações com **cadeias de caracteres (strings)**.  
+Ele apresenta um menu interativo no terminal que permite ao usuário escolher diferentes ações para manipular textos.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🚀 Funcionalidades
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+O programa oferece as seguintes opções:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+| Opção | Descrição |
+|:------|:-----------|
+| `1` | Contar quantas vezes a letra `'a'` aparece em um texto |
+| `2` | Inverter a palavra ou frase digitada |
+| `3` | Verificar se uma palavra é um **palíndromo** |
+| `4` | Substituir uma letra por outra no texto |
+| `5` | Contar o número de **vogais (a, e, i, o, u)** na palavra |
+| `0` | Encerrar o programa |
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
+## 💻 Exemplo de execução
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
